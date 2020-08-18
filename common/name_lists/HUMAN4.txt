@@ -63,7 +63,7 @@ HUMAN4 = {
 		}
 
 		titan = {
-			Midnight Midday Sunset Sunrise Dusk Dawn Twilight Tupã
+			Tupã Sunrise Dawn Midday Dusk Sunset Midnight Twilight 
 		}
 
 		colossus = {
@@ -193,13 +193,13 @@ HUMAN4 = {
 		
 		pc_desert = {
 			names = {
-				"The Desert" Summer Midday
+				"The Desert" Summer
 			}
 		}
 		
 		pc_arid = {
 			names = {
-				"The Arid" Sunrise
+				"The Arid"
 			}
 		}
 		
@@ -217,7 +217,7 @@ HUMAN4 = {
 		
 		pc_gaia = {
 			names = {
-				"The Utopia" Perfection Sanctuary
+				Perfection Sanctuary
 			}
 		}
 		
@@ -229,25 +229,25 @@ HUMAN4 = {
 		
 		pc_tundra = {
 			names = {
-				"The Tundra" Autumn Dawn
+				"The Tundra" Autumn
 			}
 		}
 		
 		pc_arctic = {
 			names = {
-				"The Arctic" Winter Midnight Glass
+				"The Arctic" Winter Glass
 			}
 		}
 
 		pc_savannah = {
 			names = {
-				"The Savannah" Sunset
+				"The Savannah"
 			}
 		}
 
 		pc_alpine = {
 			names = {
-				"The Alpine" Dusk
+				"The Alpine"
 			}
 		}
 		

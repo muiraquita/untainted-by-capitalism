@@ -9,3 +9,7 @@
  ## DEPOSITS ##
  d_buenos_aires_lan_party:0 "Buenos Aires Lan Party"
  d_buenos_aires_lan_party_desc:0 "The Buenos Aires Lan Party is a yearlong event that attracts billions of people daily. Its development as an event transformed the face of Buenos Aires forever."
+ 
+ ## SYSTEMS ##
+ custom_starting_init_07_NAME:0 "Destination System"
+ custom_starting_init_07_DESC:0 "The Autonomous Commune's starting solar system.\n\n$system_initializer_DESC$"
