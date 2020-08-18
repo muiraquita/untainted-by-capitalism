@@ -1,7 +1,11 @@
 ﻿l_english:
 
- ## Flags ##
+ ## FLAGS ##
  FLAG_CATEGORY_special_2:0 "Special"
  
- ## Name Lists ##
+ ## NAME LISTS ##
  name_list_HUMAN4:0 "Humans (AC)"
+ 
+ ## DEPOSITS ##
+ d_buenos_aires_lan_party:0 "Buenos Aires Lan Party"
+ d_buenos_aires_lan_party_desc:0 "The Buenos Aires Lan Party is a yearlong event that attracts billions of people daily. Its development as an event transformed the face of Buenos Aires forever."

@@ -9,105 +9,143 @@ HUMAN4 = {
 	ship_names = {
 		
 		corvette = {
-			Victory Courage Dauntless Endeavor Excelsior Indefatigable Chivalrous Valiant Monitor Bulwark Defender Endurance 
-			Vigilant Resolute Fortitude	Illustrious Intrepid Constellation Constitution Ranger Century Concord Defiant 
-			Galaxy Odyssey Orion Providence Reliant Freedom Solar Independence Stellar Stellaris Millennium Universe Guardian 
-			Enterprise Formidable Utiring Unwearied Unflagging Energetic Enthusiastic Unrelenting Relentless Unremitting 
-			Unswerving Unfaltering Unshakeable Indomitable Persistent Tenacious Determined Assiduous Industrious Tireless 
-			Vigorous Keen Zealous Forceful Strong Spirited Dynamic Intense Dogged Tenacious Persevering Pertinacious Untiring 
-			Insistent Purposeful Purposive Resolve Decided Adamant Firm Unswearvable Unwavering Undaunted Intent Insistent 
-			Steadfast Staunch Stalwart Earnest Deliberate Unhesitating Unflinching Persevering Dedicated Commited Stubborn 
-			Obstinate Obdurate Inflexible Renlentless Implacable Unyielding Unbending Immovable Bold Courageous Plucky 
-			Mettlesome Strenuous Perseverant Fearless Valorous Heroic Daring Adventurous Audacious Unshirking Unafraid Dauntless 
-			Venturesome Gallant Lively Vital Zestful Powerful Potent Effective Agressive Enterprising Passionate Flamboyant 
-			Effectual
+			Igwekaala Ala Ikenga Igwe AnyanwuIdemmili Agwu Ahobinagu "Ahia Njoku" Amadioha Ekwensu Aro "Njoku Ji" Ogbunabali 
+			Agbala Eke Oye Afo Nkwo Onyemuo Olórun Eledumare Olofi Orunmila Ori Àganjù Obalúayé Erinlè Èsù Ibeji Lògúnède 
+			Obàtálá Odùduwà Ògún Okó Osanyin Osùmàrè Òsóòsì Sàngó Akògún Ajé Ayao Yewa "Nàná Bùkùú" Obà Otìn Olókun Òsun Oya 
+			Yemoja Yemowo Tiándì Tiánzhu Tiánhuáng Tiángōng Tiánjun Tiánzun Tiánshén Shénhuáng Lǎotiányé "Huáng Tián" "Hào Tián" 
+			"Mín Tián" "Shàng Tián" "Cáng Tián" Yudi Doumu Pangu Xiwangmu Yanwang Yinyanggong Amaterasu Ame-no-Uzume Fujin Hachiman 
+			"Inari Okami" Izanagi Izanami Kuninotokotachi Ninigi-no-Mikoto Okuninushi Omoikane Raijin Ryujin Suijin Susanoo-no-Mikoto 
+			Tenjin Toyotama-hime Tsukuyomi-no-Mikoto Takemikazuchi Takeminakata Vishnu Shiva Brahmá Ganesha Kártikeya Párvati 
+			Lakshmi Saraswati Durgá Káli Mariamman Harihara Ardhanárishvara Acintya "Batara Kala" "Dewi Danu" "Dewi Ratih" 
+			"Dewi Sri" "Batara Guru" "Batara Sambu" "Batara Sambu" "Batara Kala" "Dewi Lanjar" "Dewi Ratih" "Dewi Sri" 
+			"Nyai Roro Kidul" Hainuwele "Sunan Ambu" Aker Amun Anhur Aten Atum Bennu Geb Hapi Horus Khepri Khnum Khonsu Maahes 
+			Montu Nefertum Nemty Neper Osiris Ptah Ra Set Shu Sobek Sopdu Thoth Wadj-wer Amunet Anuket Bastet Bat Hathor Heqet 
+			Hesat Imentet Isis Maat Menhit Mut Neith Nekhbet Nephthys Nepit Nut Pakhet Renenutet Satet Sekhmet Tefnut Wadjet 
+			Wosret Anubis Heh Kek Nu Ra Tatenen Nhanderuvuçu Angatupyry Pytajovái Pombero Abaangui Jurupari "Jande Jari" 
+			"Mala Visiõ" "Plata Yvyguy" Azeban Gluskab Malsumis Pamola Tabaldak Apistotookii Napi Ta'xet Tia "Red Horn" Aholi 
+			Angwusnasomtaka Kokopelli Koyangwuti Muyingwa Taiowa Igaluk Nanook Nerrivik Pinga Sedna Torngasoak Adekagagwaa 
+			Gaol Gendenwitha Gohone Hahgwehdaetgan Hahgwehdiyu Onatha Kewkwaxa'we Canopus Haokah Whope Wi Etu Niskam Coyote 
+			Cautantowwit "Asdzáá Nádleehé" "Bik'eh Hózhó" "Haashch'éé Oolt'ohí" Haashch'éélti'í Hashch'éoghan Niltsi "Tó Neinilii" 
+			Jóhonaa'éí "Yoolgai Asdzáá" Ma’ii Pah Shakuru Tirawa Amotken Eagentci Hagones Hawenniyo Kaakvha Dohkwibuhch Yaya 
+			Yayael Atabey Yúcahu Guabancex Juracán Guatauva Coatrisquie Bayamanaco Boinayel Márohu "Maketaori Guayaba"  Airesekui 
+			"Opiyel Guabiron" Heng Iosheka Aphrodite Apollo Ares Artemis Athena Demeter Dionysus Hades Hephaestus Hera Hermes 
+			Hestia Poseidon Zeus Aumakua 'Elepaio Haikili Haumea Hi'iaka Hina Kaha'i Haumiatiketike Papatuánuku Ranginui
 		}
 		
 		destroyer = {
-			###
+			Rongomátáne Tánemahuta Tangaroa Táwhirimátea Tumatauenga Whiro Paekitawhiti Aituá Ao Auahituroa Haere Ikatere Io 
+			Matua Kore Kahukura Kiwa Makeatutara Maru Máui Ngahue Puhaorangi Punga Rehua Rongomai Ruaumoko Tamanuiterá Tane-rore 
+			Táwhaki "Te Uira" Tiki Tinirau Tutewehiwehi Uenuku Urutengangana Árohirohi Hina Hinekapea Hinehōaka Hinenuitepō Ikaroa 
+			Kui Mahuika Moekahu Rohe Tangotango Tuáwhiorangi Whaitiri Aumakua 'Elepaio Haikili Haumea Hi'iaka Hina Kaha'i Kahō'áli'i 
+			Kalamainu'u Kamapua'a Kámohoali'i Kanaloa Káne Kapo Kapu Kapua Kaulu Kihawahine Kinilau Ku Kumulipo Kuula Laka Lohiau 
+			Lono Lona Mana Máui Menehune Námaka Nu'akea Nightmarchers Nu'u Papa Pa'ao Paka'a Paliuli Papahánaumoku Pele Poli'ahu 
+			Ukupanipo Wahieloa Waka Wákea Annamar Ayyanar "Elu Kanniyar" "Kanakampikai Amman" "Kannaki Amman" Kali Kattavarayan 
+			Naccimar "Naka Tampiran" Periyatampiran Valliyakkan Varunan Virumar A'as Aduntarri Alalus Amunki Anu Anzili Apaliunas 
+			Api Aranzah Arinna Arinniti Arma Aruna Aserdus Elkunirsa Ellel "Gul Ses" Halki Hannahannah Hanwasuit Hapantali Hasameli 
+			Hatepuna Hazzi Huttellurra Inara Irpitiga Irsirra Ishara Istar Istanu Istustaya Jarri Kamrusepa Kaskuh Khipa Kumarbi 
+			Kurunta Lelwani Mezulla Minki Miyatanzipa Namsara Nara Pihassassa Pirwa Rundas Sala Sandas Sarruma Sauska Sutekh Suwaliyat 
 		}
 		
 		cruiser = {
-			###
+			Tarawa Tarḫunna Tarhunt Taru Tasmisu Telipinu Tesimi Teshub Tilla Uliliyassis Ubelluris Wurrukatte Zababa Zaliyanu 
+			Zashapuna Zintuhi Zukki Agloolik Akna Amaguq Anguta Igaluk Malina Nanook Pinga Qailertetang Sedna Sila Tekkeitsertok 
+			Make-make Uoke "Hotu Matu'a" Aku-Aku "Manana Take" "Tangata Manu" "Hanau Epe" Hina-Oio Birrahgnooloo Dirawong Wurrunna 
+			Adnoartina Altjira Ankotarinja Onur Bamapana Banaitja Barnumbirr Barraiya Bobbi-Bobbi Djanggawul Galeru Djunkgao Julunggul 
+			Karora Kunapipi Malingee Mamaragan Mangar-kunjer-kunja Mimi Minawara Multultu Namarrkon Mokoi Ngintaka Nogomain Manuriki 
 		}
 		
 		battleship = {
-			Yamato
+			Papinijuwari Ulanji Wala Wawalag Wollunqua Wuluwaid Wuriupranili Wurugag Waramurungundi Yhi Yurlungur Anjea Gaiya Dhakhan 
+			I'wai Y alungur Akurra Bila Bunyip Mar'rallang Muldjewangk Ngintaka Tjilbruke Willauk Tebwem Pioial Moinee Crow Baiame 
+			Balayang Binbeal Bunjil Bunyip Daramulum Gnowee Karatgurk Kondole Lohan-tuka Loo-errn Nargun Pundjel Thinan-malkia 
+			Tiddalik Wambeen Bagadjimbiri Dilga Julana Kidili Kurdaitcha Ngariman Njirana Ungud Wagyl Wati-kutjara Wondjina Erathipa 
+			Yara-ma-yha-who Tjinimin Nogomain Mar'rallang Djunkgao Yee-Na-Pah
 		}
 
 		titan = {
-			###
+			Midnight Midday Sunset Sunrise Dusk Dawn Twilight Tupã
 		}
 
 		colossus = {
-			###
+			Centerpoint
 		}
 
 		juggernaut = {
-			Invincible
+			Invincible Invulnerable Indestructible Unconquerable Unbeatable Unassailable Inpregnable
 		}
 
 		constructor = {
-			###
+			Effective Independence Century Pioneer Unremitting Venturesome Deliberate Chivalrous Bold Voyager Heroic Fortitude 
+			Unshakeable Bulwark Assiduous Courage Unflinching Adventurous Concord Vigilant Purposive Resolve Indomitable Zestful 
+			Keen Lively Unflagging Reliant Insistent Strenuous Valorous Discovery Indefatigable Stubborn Guardian Unafraid Stalwart 
+			Excelsior Passionate Persevering Inflexible Universe Defender Unshirking
 		}
 		
 		colonizer = {
-			Abundance Bountiful Felicity Hope Opportunity Serenity Unity Destiny
+			Obstinate Persistent Steadfast Purposeful Scout Obdurate Enterprising Daring Determined Insistent Unwavering Unfaltering 
+			Zealous Staunch Dedicated Stellaris Intrepid Stellar Unswerving Industrious Resolute Tireless Committed Vigorous 
+			Energetic Earnest Unrelenting Explorer Enthusiastic Unhesitating Firm Intent Ranger Spirited Constitution Fearless 
+			Powerful Dogged Strong Solar Tenacious Pertinacious Freedom Dynamic
 		}
 
 		sponsored_colonizer = { # needed when there are no generic names
-			Abundance Bountiful Felicity Hope Opportunity Serenity Unity Destiny
+			Obstinate Persistent Steadfast Purposeful Scout Obdurate Enterprising Daring Determined Insistent Unwavering Unfaltering 
+			Zealous Staunch Dedicated Stellaris Intrepid Stellar Unswerving Industrious Resolute Tireless Committed Vigorous 
+			Energetic Earnest Unrelenting Explorer Enthusiastic Unhesitating Firm Intent Ranger Spirited Constitution Fearless 
+			Powerful Dogged Strong Solar Tenacious Pertinacious Freedom Dynamic
 		}
 		
 		science = {
-			Discovery 
-			Voyager Scout Pioneer Explorer Sojourner
+			Effectual Unswearvable Intense Valiant Undaunted Implacable Perseverant Courageous Dauntless Vital Enterprise 
+			Decided Adamant Unyielding Millennium Forceful Unbending Illustrious Immovable Potent Unwearied 
+			Aggressive Audacious Flamboyant Endurance Sojourner Constellation Mettlesome Relentless Galaxy Formidable 
+			Gallant Endeavor Defiant Plucky Monitor Victory Untiring
 		}
 		
 		transport = {
-			"%O% Transport Vessel"
+			"Transport Vessel"
 		}
 
 		military_station_small = {
-			Citadel Gateway Anchorage
+			Stronghold
 		}
 
 		ion_cannon = {
-			Bombard Ballista Catapult Harpoon Polybolos Culverin
+			Ion Cannon			
 		}
 	}
 
 	fleet_names = {
-		sequential_name = "%O% Fleet"
+		sequential_name = "%O% Revolutionary Vanguard"
 	}
 	
 	army_names = {
 	
 		defense_army = {
-			sequential_name = "%O% Planetary Guard"
+			sequential_name = "%O% People's Defense"
 		}
 
 		assault_army = {
-			sequential_name = "%O% Expeditionary Force"
+			sequential_name = "%O% Revolutionary Vanguard"
 		}
 		
 		slave_army = {
-			sequential_name = "%O% Indentured Rifles"
+			sequential_name = "%O% Slave Army"
 		}
 		
-		clone_army = { 
+		clone_army = {
 			sequential_name = "%O% Clone Army"
 		}
 		
 		robotic_army = {
-			sequential_name = "%O% Hunter-Killer Group"
+			sequential_name = "%O% Mechanized Vanguard"
 		}
 
 		robotic_defense_army = {
-			sequential_name = "%O% Ground Defense Matrix"
+			sequential_name = "%O% Droid's Defense"
 		}
 		
-		psionic_army = { 
+		psionic_army = {
 			sequential_name = "%O% Psi Commando"
 		}
 		
@@ -124,11 +162,11 @@ HUMAN4 = {
 		}
 
 		occupation_army = {
-			sequential_name = "%O% Garrison Force"
+			sequential_name = "%O% Revolutionary Force"
 		}
 
 		robotic_occupation_army = {
-			sequential_name = "%O% Mechanized Garrison"
+			sequential_name = "%O% Mechanized Force"
 		}
 
 		primitive_army = {
@@ -146,67 +184,70 @@ HUMAN4 = {
 
 		generic = {
 			names = {
-				Anchor Bounty Hope Serendipity Spring Concord
+				Anchor Harmony Hope Serendipity Concord Accord Compact Aspiration Unification Alliance Commune Anomaly Vanguard 
+				Tranquility Dream Relic Curiosity Parable Legacy Eternity Luminosity Serenity Sorrow Peace Constant Paradox 
+				Revelation Origin Specter Epiphany Voyage Radiance Silence Underworld Tupã Victory Discovery Citadel Freedom 
+				Enigma 
 			}
 		}
 		
 		pc_desert = {
 			names = {
-				###
+				"The Desert" Summer Midday
 			}
 		}
 		
 		pc_arid = {
 			names = {
-				###
+				"The Arid" Sunrise
 			}
 		}
 		
 		pc_tropical = {
 			names = {
-				###
+				"The Tropical" Spring
 			}
 		}
 		
 		pc_continental = {
 			names = {
-				###
+				"The Continental" Garden 
 			}
 		}
 		
 		pc_gaia = {
 			names = {
-				###
+				"The Utopia" Perfection Sanctuary
 			}
 		}
 		
 		pc_ocean = {
 			names = {
-				###
+				"The Ocean" "The Deep Sea" "The Abyss" 
 			}
 		}
 		
 		pc_tundra = {
 			names = {
-				###
+				"The Tundra" Autumn Dawn
 			}
 		}
 		
 		pc_arctic = {
 			names = {
-				###
+				"The Arctic" Winter Midnight Glass
 			}
 		}
 
 		pc_savannah = {
 			names = {
-				###
+				"The Savannah" Sunset
 			}
 		}
 
 		pc_alpine = {
 			names = {
-				###
+				"The Alpine" Dusk
 			}
 		}
 		
@@ -335,7 +376,7 @@ HUMAN4 = {
 		}
 		
 		names3 = {
-			weight = 40
+			weight = 10
 			first_names_male = {
 				An Bao Bo Cai Cheng De Dong Feng Gang Guo Hu Hui Jian Jie Kang Li Liang Long Meng Ning Peng Qiang Shi Song Tao Tian Wei 
 				You Yong Yi Xiong Wu
@@ -360,7 +401,7 @@ HUMAN4 = {
 		}
 		
 		names4 = {
-			weight = 15
+			weight = 10
 			first_names_male = {
 				Karl Wilhelm Otto Heinrich Friedrich Paul Hans Gustav Max Ernst Hermann Walter Werner Günther Wolfgang Helmuth Kurt Rolf
 				Peter Klaus Gerhard Heinz Horst Manfred Uwe Jürgen Dieter Andreas Thomas Stefan Lukas Felix Martin Fritz Johann Erich Arnold
@@ -389,7 +430,7 @@ HUMAN4 = {
 		}
 		
 		names5 = {
-			weight = 15
+			weight = 10
 			first_names_male = {
 				Philippe Pierre Jean-Marie Marcel Francois Hubert Paul Antoine Michel Henri Marc Jean Maurice René Claude Yves Jacques
 				Simon Olivier Joseph Robert Georges André Raymond Gaston Charles Thierry Guy Patrice Mathieu Jean-Francois Lucien Jean-Paul
@@ -417,7 +458,7 @@ HUMAN4 = {
 		}
 		
 		names6 = {
-			weight = 15
+			weight = 10
 			first_names_male = {
 				Hiroto Hikaru Takumi Tsubasa Ren Minato Shota Yuuto Sota Yuma Takeru Rikuto Tatsuki Ryuto Haru Yushin Kosei Yoshinobu
 				Jiro Hiroshi Yoshida Mitsue Keisuke Saburo Junichi Yoshi Koshiro Kentaro Koichiro
@@ -443,7 +484,7 @@ HUMAN4 = {
 		}
 		
 		names7 = {
-			weight = 15
+			weight = 10
 			first_names_male = {
 				Aarav Vivaan Aditya Arjun Reyansh Arnav Krishna Ishaan Shaurya Atharv Advik Pranav Advaith Dhruv Kabir Ritvik Aarush
 				Kayaan Darsh Veer Rahul Mahesh Shyam Raj Kumar Palash Rakesh Nishant Neeraj Prathamesh Shubham
@@ -469,7 +510,7 @@ HUMAN4 = {
 		}
 		
 		names8 = {
-			weight = 25
+			weight = 10
 			first_names_male = {
 				Diego Luis Pedro Joaquin José Emilio Eduardo Alejandro Carlos Fernando Francisco Julio "José Antonio" "José Manuel" Juan
 				"José María" Ignacio Manuel Pablo Miguel Ramón Raimundo Santiago Ricardo Marcelo Javier Gaspar Alfonso Lorenzo Enrique
@@ -497,7 +538,7 @@ HUMAN4 = {
 		}
 		
 		names9 = {
-			weight = 15
+			weight = 10
 			first_names_male = {
 				Abdullah Abbas Abed Ahmad Ahmed Ali Ammar Amir Hamza Hassan Hydar Ibrahim Jamal Kareem Khathem Khalil Khalid Malik Mahdi 
 				Hussein Mohamed Mohammad Mohammed Muhammad Muhammed Nasir Omar Rashad Rashid Samir Tariq Yahir Yasin Yusuf Barak
@@ -523,7 +564,7 @@ HUMAN4 = {
 		}
 		
 		names10 = {
-			weight = 15
+			weight = 10
 			first_names_male = {
 				Faraji Imamu Jelani Jengo Jumaane Khamisi Kibwe Mosi Mwenye Sefu Simba Tendaji Zuberi Abasi Annan Azizi Badru Bakari Bwana
 				Chane Chuma Enzi Faraji Hanisi Idi Issa Jabari Akani Aluwanip Ayanda Bambanani Bheka Bhekithemba Bhekizizwe Butholezwe Dikotsi 
@@ -556,7 +597,7 @@ HUMAN4 = {
 		}
 		
 		names11 = {
-			weight = 15
+			weight = 10
 			first_names_male = {
 				Mario Luigi Giovanni Giuseppe Antonio Roberto Andrea Stefano Marco Franscesco Angelo Vincenzo Pietro Salvatore Carlo Franco
 				Domenico Bruno Paulo Michele Giorgio Sergio Luciano Alessandro Alfonso Benito Fabrizio Cesare Enrico Gustavo Silvio Umberto
@@ -585,13 +626,13 @@ HUMAN4 = {
 		}
 		
 		names12 = {
-			weight = 15
+			weight = 10
 			first_names_male = {
 				Gabriel Lucas Matheus Pedro Leonardo Felipe João Vinícius Guilherme Daniel Luíz Bruno Rafael Artúr Gustavo Paulo Matheus Mateus 
 				Thiago Igor Douglas Víctor "João Pedro" "Luíz Gustavo" "Carlos Alberto" "Carlos Henrique" Vítor Anderson Eduardo Cáio Rodrigo 
 				Marcos Leandro Diego José Fernando Fábio "João Vítor" Henrique William Carlos Marcelo Alexandre Aléx Ítalo Raphael Flávio Bernardo 
 				André Luciano Ricardo Luís Vagner Ramón Adriano Márcio Jeferson Daví Geovanne Wesley Murilo Danilo Renan Augusto Máicon Sidnêi Pablo 
-				Brêno Éric Lûan Emerson "Luiz Enrique" Josué Jêan Samuel Hugo Crístian Renato Raul Sávio Diogo "João Eduardo" Fabrício Juliano 
+				Brêno Lûan Emerson "Luiz Enrique" Josué Jêan Samuel Hugo Crístian Renato Raul Sávio Diogo "João Eduardo" Fabrício Juliano 
 				Roberto Alef Jônatan Lúca Patrique Júnior Fred "José Mateus" Tiago Aruana Moacir Ubirajara Xamã Piatã Ubiratan Guaraci Kayke Rudá
 				Janaína Mayara Kauâne Anahí Iracema Potira Jurema Jaciara Tauane Raíra Juraci Jaci Tuane Lauany Niara Kauana Iandara Moema Porã
 				Moara Inara Inaiê Grajaú Bartira Aritana Uyara Nadi Ubiraci Ipanema Suyane Jandir Teçá Iberê Inã Jupira Itaú Acir Naná Itambé
