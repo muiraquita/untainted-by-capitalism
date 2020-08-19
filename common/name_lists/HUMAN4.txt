@@ -187,7 +187,7 @@ HUMAN4 = {
 				Anchor Harmony Hope Serendipity Concord Accord Compact Aspiration Unification Alliance Commune Anomaly Vanguard 
 				Tranquility Dream Relic Curiosity Parable Legacy Eternity Luminosity Serenity Sorrow Peace Constant Paradox 
 				Revelation Origin Specter Epiphany Voyage Radiance Silence Underworld Tupã Victory Discovery Citadel Freedom 
-				Enigma 
+				Enigma Signal Singularity
 			}
 		}
 		
