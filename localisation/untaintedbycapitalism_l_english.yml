@@ -4,7 +4,8 @@
  FLAG_CATEGORY_special_2:0 "Special"
  
  ## NAME LISTS ##
- name_list_HUMAN4:0 "Humans (AC)"
+ name_list_HUMAN4UBC:0 "Humans (AC)"
+ name_list_HUMAN5UBC:0 "Humans (Egyptian)"
  
  ## SYSTEMS ##
  custom_starting_init_07_NAME:0 "Destination System"
