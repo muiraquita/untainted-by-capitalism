@@ -197,3 +197,50 @@ custom_starting_init_07 = {
 		entity = "gas_giant_03_entity"
 	}
 }
+
+### ??? System
+custom_starting_init_08 = {
+	name = "???"
+	class = "sc_black_hole"
+	usage = custom_empire
+	flags = { empire_home_system }
+	init_effect = {
+		every_neighbor_system = {
+			set_star_flag = empire_cluster
+			every_neighbor_system = {
+				set_star_flag = empire_cluster
+			}
+		}
+		generate_home_system_resources = yes
+	}
+	
+	planet = {
+		name = "???"
+		class = "pc_black_hole"
+		orbit_distance = 0
+		orbit_angle = 1
+		size = 75
+		has_ring = no
+	}
+	
+	planet = {
+		name = "!!!"
+		class = ideal_planet_class
+		home_planet = yes
+		orbit_distance = 100
+		orbit_angle = 120
+		size = 25
+		starting_planet = yes
+		has_ring = yes
+		deposit_blockers = none
+		modifiers = none
+		
+		init_effect = {
+			prevent_anomaly = yes
+		}
+		
+		init_effect = {
+			generate_empire_home_planet = yes
+		}
+	}
+}
