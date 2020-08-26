@@ -198,10 +198,10 @@ custom_starting_init_07 = {
 	}
 }
 
-### ??? System
+### Atlantis System
 custom_starting_init_08 = {
-	name = "???"
-	class = "sc_black_hole"
+	name = "Atlantis"
+	class = "sc_pulsar"
 	usage = custom_empire
 	flags = { empire_home_system }
 	init_effect = {
@@ -215,19 +215,19 @@ custom_starting_init_08 = {
 	}
 	
 	planet = {
-		name = "???"
-		class = "pc_black_hole"
+		name = "Atlantis"
+		class = "pc_pulsar"
 		orbit_distance = 0
 		orbit_angle = 1
-		size = 75
+		size = 25
 		has_ring = no
 	}
 	
 	planet = {
-		name = "!!!"
+		name = "Atlantis"
 		class = ideal_planet_class
 		home_planet = yes
-		orbit_distance = 100
+		orbit_distance = 150
 		orbit_angle = 120
 		size = 25
 		starting_planet = yes
