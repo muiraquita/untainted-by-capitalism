@@ -6,12 +6,13 @@
  ## NAME LISTS ##
  name_list_HUMAN4UBC:0 "Humans (AC)"
  name_list_HUMAN5UBC:0 "Humans (Egyptian)"
+ name_list_HUMAN6UBC:0 "Humans (SA)"
  
  ## SYSTEMS ##
  custom_starting_init_07_NAME:0 "Destination System"
  custom_starting_init_07_DESC:0 "The Autonomous Commune's starting solar system.\n\n$system_initializer_DESC$"
- custom_starting_init_08_NAME:0 "??? System"
- custom_starting_init_08_DESC:0 "The ???'s starting solar system.\n\n$system_initializer_DESC$"
+ custom_starting_init_08_NAME:0 "Atlantis System"
+ custom_starting_init_08_DESC:0 "The Sympoliteia Atlanteion's starting solar system.\n\n$system_initializer_DESC$"
  
  ## DEPOSITS ##
  d_buenos_aires_lan_party:0 "Buenos Aires Lan Party"
