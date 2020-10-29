@@ -1,7 +1,7 @@
 ##############################################
 #											 #
 #  Untainted by Capitalism Starting Systems  #
-#									 		 #
+#								ᵇʸ ᴰᵉˢᵈᵉᵐᵒⁿᵃ #
 ##############################################
 
 @distance = 50
@@ -229,7 +229,7 @@ custom_starting_init_08 = {
 		home_planet = yes
 		orbit_distance = 150
 		orbit_angle = 120
-		size = 25
+		size = 50
 		starting_planet = yes
 		has_ring = yes
 		deposit_blockers = none

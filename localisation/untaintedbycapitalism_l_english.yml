@@ -7,6 +7,8 @@
  name_list_HUMAN4UBC:0 "Humans (AC)"
  name_list_HUMAN5UBC:0 "Humans (Egyptian)"
  name_list_HUMAN6UBC:0 "Humans (SA)"
+ name_list_HUMAN7UBC:0 "Humans (LLL)"
+ name_list_MACHINE5UBC:0 "Machine 5"
  
  ## SYSTEMS ##
  custom_starting_init_07_NAME:0 "Destination System"

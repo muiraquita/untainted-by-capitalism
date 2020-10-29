@@ -1,0 +1,378 @@
+﻿### Machine 5
+### Created by Desdêmona de Muiraquitã
+
+MACHINE5UBC = {
+	category = "Machine"
+	should_name_home_system_planets = no
+
+	ship_names = {
+
+		generic = {
+			composite4 composite6 composite8 composite9 composite10 composite12 composite14 composite15 composite16
+			composite18 composite20 composite21 composite22 composite24 composite25 composite26 composite27 composite28
+			composite30 composite32 composite33 composite34 composite35 composite36 composite38 composite39 composite40
+			composite42 composite44 composite45 composite46 composite48 composite49 composite50 composite51 composite52
+			composite54 composite55 composite56 composite57 composite58 composite60 composite62 composite63 composite64
+			composite65 composite66 composite68 composite69 composite70 composite72 composite74 composite75 composite76
+			composite77 composite78 composite80 composite81 composite82 composite84 composite85 composite86 composite87
+			composite88 composite90 composite91 composite92 composite93 composite94 composite95 composite96 composite98
+			composite99 composite100 composite102 composite104 composite105 composite106 composite108 composite110 
+			composite111 composite112 composite114 composite115 composite116 composite117 composite118 composite119
+			composite120 composite121 composite122 composite123 composite124 composite125 composite126 composite128 
+			composite129 composite130 composite132 composite133 composite134 composite135 composite136 composite138 
+			composite140 composite141 composite142 composite143 composite144 composite145 composite146 composite147 
+			composite148 composite150 composite152 composite153 composite154 composite155 composite156 composite158 
+			composite159 composite160 composite161 composite162 composite164 composite165 composite166 composite168 
+			composite169 composite170 composite171 composite172 composite174 composite175 composite176 composite177 
+			composite178 composite180 composite182 composite183 composite184 composite185 composite186 composite187 
+			composite188 composite189 composite190 composite192 composite194 composite195 composite196 composite198 
+			composite200 composite201 composite202 composite203 composite204 composite205 composite206 composite207 
+			composite208 composite209 composite210 composite212 composite213 composite214 composite215 composite216 
+			composite217 composite218 composite219 composite220 composite221 composite222 composite224 composite225 
+			composite226 composite228 composite230 composite231 composite232 composite234 composite235 composite236 
+			composite237 composite238 composite240 composite242 composite243 composite244 composite245 composite246 
+			composite247 composite248 composite249 composite250 composite252 composite253 composite254 composite255 
+			composite256 composite258 composite259 composite260 composite261 composite262 composite264 composite265 
+			composite266 composite267 composite268 composite270 composite272 composite273 composite274 composite275 
+			composite276 composite278 composite279 composite280 composite282 composite284 composite285 composite286 
+			composite287 composite288 composite289 composite290 composite291 composite292 composite294 composite295 
+			composite296 composite297 composite298 composite299 composite300 composite301 composite302 composite303 
+			composite304 composite305 composite306 composite308 composite309 composite310 composite312 composite314 
+			composite315 composite316 composite318 composite319 composite320 composite321 composite322 composite323 
+			composite324 composite325 composite326 composite327 composite328 composite329 composite330 composite332 
+			composite333 composite334 composite335 composite336 composite338 composite339 composite340 composite341 
+			composite342 composite343 composite344 composite345 composite346 composite348 composite350 composite351 
+			composite352 composite354 composite355 composite356 composite357 composite358 composite360 composite361 
+			composite362 composite363 composite364 composite365 composite366 composite368 composite369 composite370 
+			composite371 composite372 composite374 composite375 composite376 composite377 composite378 composite380 
+			composite381 composite382 composite384 composite385 composite386 composite387 composite388 composite390 
+			composite391 composite392 composite393 composite394 composite395 composite396 composite398 composite399 
+			composite400 composite402 composite403 composite404 composite405 composite406 composite407 composite408 
+			composite410 composite411 composite412 composite413 composite414 composite415 composite416 composite417 
+			composite418 composite420 composite422 composite423 composite424 composite425 composite426 composite427 
+			composite428 composite429 composite430 composite432 composite434 composite435 composite436 composite437 
+			composite438 composite440 composite441 composite442 composite444 composite445 composite446 composite447 
+			composite448 composite450 composite451 composite452 composite453 composite454 composite455 composite456 
+			composite458 composite459 composite460 composite462 composite464 composite465 composite466 composite468 
+			composite469 composite470 composite471 composite472 composite473 composite474 composite475 composite476 
+			composite477 composite478 composite480 composite481 composite482 composite483 composite484 composite485 
+			composite486 composite488 composite489 composite490 composite492 composite493 composite494 composite495 
+			composite496 composite497 composite498 composite500 composite501 composite502 composite504 composite505 
+			composite506 composite507 composite508 composite510 composite511 composite512 composite513 composite514 
+			composite515 composite516 composite517 composite518 composite519 composite520 composite522 composite524 
+			composite525 composite526 composite527 composite528 composite529 composite530 composite531 composite532 
+			composite533 composite534 composite535 composite536 composite537 composite538 composite539 composite540 
+			composite542 composite543 composite544 composite545 composite546 composite548 composite549 composite550 
+			composite551 composite552 composite553 composite554 composite555 composite556 composite558 composite559 
+			composite560 composite561 composite562 composite564 composite565 composite566 composite567 composite568 
+			composite570 composite572 composite573 composite574 composite575 composite576 composite578 composite579 
+			composite580 composite581 composite582 composite583 composite584 composite585 composite586 composite588 
+			composite589 composite590 composite591 composite592 composite594 composite595 composite596 composite597 
+			composite598 composite600 composite602 composite603 composite604 composite605 composite606 composite608 
+			composite609 composite610 composite611 composite612 composite614 composite615 composite616 composite618 
+			composite620 composite621 composite622 composite623 composite624 composite625 composite626 composite627 
+			composite628 composite629 composite630 composite632 composite633 composite634 composite635 composite636 
+			composite637 composite638 composite639 composite640 composite642 composite644 composite645 composite646 
+			composite648 composite649 composite650 composite651 composite652 composite654 composite655 composite656 
+			composite657 composite658 composite660 composite662 composite663 composite664 composite665 composite666 
+			composite667 composite668 composite669 composite670 composite671 composite672 composite674 composite675 
+			composite676 composite678 composite679 composite680 composite681 composite682 composite684 composite685 
+			composite686 composite687 composite688 composite689 composite690 composite692 composite693 composite694 
+			composite695 composite696 composite697 composite698 composite699 composite700 composite702 composite703 
+			composite704 composite705 composite706 composite707 composite708 composite710 composite711 composite712 
+			composite713 composite714 composite715 composite716 composite717 composite718 composite720 composite721 
+			composite722 composite723 composite724 composite725 composite726 composite728 composite729 composite730 
+			composite731 composite732 composite734 composite735 composite736 composite737 composite738 composite740 
+			composite741 composite742 composite744 composite745 composite746 composite747 composite748 composite749 
+			composite750 composite752 composite753 composite754 composite755 composite756 composite758 composite759 
+			composite760 composite762 composite763 composite764 composite765 composite766 composite767 composite768 
+			composite770 composite771 composite772 composite774 composite775 composite776 composite777 composite778 
+			composite779 composite780 composite781 composite782 composite783 composite784 composite785 composite786 
+			composite788 composite789 composite790 composite791 composite792 composite793 composite794 composite795 
+			composite796 composite798 composite799 composite800 composite801 composite802 composite803 composite804 
+			composite805 composite806 composite807 composite808 composite810 composite812 composite813 composite814 
+			composite815 composite816 composite817 composite818 composite819 composite820 composite822 composite824 
+			composite825 composite826 composite828 composite830 composite831 composite832 composite833 composite834 
+			composite835 composite836 composite837 composite838 composite840 composite841 composite842 composite843 
+			composite844 composite845 composite846 composite847 composite848 composite849 composite850 composite851 
+			composite852 composite854 composite855 composite856 composite858 composite860 composite861 composite862 
+			composite864 composite865 composite866 composite867 composite868 composite869 composite870 composite871 
+			composite872 composite873 composite874 composite875 composite876 composite878 composite879 composite880 
+			composite882 composite884 composite885 composite886 composite888 composite889 composite890 composite891 
+			composite892 composite893 composite894 composite895 composite896 composite897 composite898 composite899 
+			composite900 composite901 composite902 composite903 composite904 composite905 composite906 composite908 
+			composite909 composite910 composite912 composite913 composite914 composite915 composite916 composite917 
+			composite918 composite920 composite921 composite922 composite923 composite924 composite925 composite926 
+			composite927 composite928 composite930 composite931 composite932 composite933 composite934 composite935 
+			composite936 composite938 composite939 composite940 composite942 composite943 composite944 composite945 
+			composite946 composite948 composite949 composite950 composite951 composite952 composite954 composite955 
+			composite956 composite957 composite958 composite959 composite960 composite961 composite962 composite963 
+			composite964 composite965 composite966 composite968 composite969 composite970 composite972 composite973 
+			composite974 composite975 composite976 composite978 composite979 composite980 composite981 composite982 
+			composite984 composite985 composite986 composite987 composite988 composite989 composite990 composite992 
+			composite993 composite994 composite995 composite996 composite998 composite999 composite1000
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+
+		titan = {
+		}
+
+		colossus = {
+			Nullifier
+		}
+
+		juggernaut = {
+			Prime
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+
+		transport = {
+		}
+	
+		military_station_small = {
+		}
+
+		ion_cannon = {
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			tactical002 tactical003 tactical005 tactical007 tactical011 tactical013 tactical017 tactical019 tactical023 
+			tactical029 tactical031 tactical037 tactical041 tactical043 tactical047 tactical053 tactical059 tactical061 
+			tactical067 tactical071 tactical073 tactical079 tactical083 tactical089 tactical097 tactical101 tactical103 
+			tactical107 tactical109 tactical113 tactical127 tactical131 tactical137 tactical139 tactical149 tactical151 
+			tactical157 tactical163 tactical167 tactical173 tactical179 tactical181 tactical191 tactical193 tactical197 
+			tactical199 tactical211 tactical223 tactical227 tactical229 tactical233 tactical239 tactical241 tactical251 
+			tactical257 tactical263 tactical269 tactical271 tactical277 tactical281 tactical283 tactical293 tactical307 
+			tactical311 tactical313 tactical317 tactical331 tactical337 tactical347 tactical349 tactical353 tactical359 
+			tactical367 tactical373 tactical379 tactical383 tactical389 tactical397 tactical401 tactical409 tactical419 
+			tactical421 tactical431 tactical433 tactical439 tactical443 tactical449 tactical457 tactical461 tactical463 
+			tactical467 tactical479 tactical487 tactical491 tactical499 tactical503 tactical509 tactical521 tactical523 
+			tactical541 tactical547 tactical557 tactical563 tactical569 tactical571 tactical577 tactical587 tactical593 
+			tactical599 tactical601 tactical607 tactical613 tactical617 tactical619 tactical631 tactical641 tactical643 
+			tactical647 tactical653 tactical659 tactical661 tactical673 tactical677 tactical683 tactical691 tactical701 
+			tactical709 tactical719 tactical727 tactical733 tactical739 tactical743 tactical751 tactical757 tactical761 
+			tactical769 tactical773 tactical787 tactical797 tactical809 tactical811 tactical821 tactical823 tactical827 
+			tactical829 tactical839 tactical853 tactical857 tactical859 tactical863 tactical877 tactical881 tactical883 
+			tactical887 tactical907 tactical911 tactical919 tactical929 tactical937 tactical941 tactical947 tactical953 
+			tactical967 tactical971 tactical977 tactical983 tactical991 tactical997
+		}
+	}
+	
+	army_names = {
+
+		machine_assault_1 = {
+			sequential_name = "%O% Tactical Group"
+		}
+
+		machine_defense = {
+			sequential_name = "%O% Defense Group"
+		}
+		
+		machine_assault_2 = {
+			sequential_name = "%O% Heavy Demolitions"
+		}
+	
+		machine_assault_3 = {
+			sequential_name = "%O% Eradicator"
+		}
+	
+		defense_army = {
+			sequential_name = "%O% Cybernetic Defense"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Cybernetic Tactical"
+		}
+		
+		clone_army = {
+			sequential_name = "%O% Clone Group"
+		}
+
+		machine_occupation_army = {
+			sequential_name = "%O% Occupation Group"
+		}
+
+		primitive_army = {
+			sequential_name = "Primitive Army %C%"
+		}
+		industrial_army = {
+			sequential_name = "Industrial Army %C%"
+		}
+		postatomic_army = {
+			sequential_name = "Post-Atomic Army %C%"
+		}
+	}
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = { 
+				Nexus Hub Bridge Matrix Network Core Kernel Source Combine Locus Cynosure Omphalos Nucleus Axis Crux Terminus 
+				Server Chassis
+			}
+		}
+		
+		pc_desert = {
+			names = { 
+				"Scorched Nexus" "Scorched Hub" "Scorched Bridge" "Scorched Matrix" "Scorched Network" "Scorched Core" "Scorched Kernel" 
+				"Scorched Source" "Scorched Combine" "Scorched Locus" "Scorched Cynosure" "Scorched Omphalos" "Scorched Nucleus" 
+				"Scorched Axis" "Scorched Crux" "Scorched Terminus" "Scorched Server" "Scorched Chassis"
+			}
+		}
+		
+		pc_tropical = {
+			names = { 
+				"Verdant Nexus" "Verdant Hub" "Verdant Bridge" "Verdant Matrix" "Verdant Network" "Verdant Core" "Verdant Kernel" 
+				"Verdant Source" "Verdant Combine" "Verdant Locus" "Verdant Cynosure" "Verdant Omphalos" "Verdant Nucleus" "Verdant Axis" 
+				"Verdant Crux" "Verdant Terminus" "Verdant Server" "Verdant Chassis"
+			}
+		}
+		
+		pc_arid = {
+			names = { 
+				"Desiccant Nexus" "Desiccant Hub" "Desiccant Bridge" "Desiccant Matrix" "Desiccant Network" "Desiccant Core" 
+				"Desiccant Kernel" "Desiccant Source" "Desiccant Combine" "Desiccant Locus" "Desiccant Cynosure" "Desiccant Omphalos" 
+				"Desiccant Nucleus" "Desiccant Axis" "Desiccant Crux" "Desiccant Terminus" "Desiccant Server" "Desiccant Chassis"
+			}
+		}
+		
+		pc_continental = {
+			names = { 
+				"Terrene Nexus" "Terrene Hub" "Terrene Bridge" "Terrene Matrix" "Terrene Network" "Terrene Core" "Terrene Kernel" 
+				"Terrene Source" "Terrene Combine" "Terrene Locus" "Terrene Cynosure" "Terrene Omphalos" "Terrene Nucleus" "Terrene Axis" 
+				"Terrene Crux" "Terrene Terminus" "Terrene Server" "Terrene Chassis"
+			}
+		}
+		
+		pc_ocean = {
+			names = { 
+				"Fluid Nexus" "Fluid Hub" "Fluid Bridge" "Fluid Matrix" "Fluid Network" "Fluid Core" "Fluid Kernel" "Fluid Source" 
+				"Fluid Combine" "Fluid Locus" "Fluid Cynosure" "Fluid Omphalos" "Liquid Nucleus" "Fluid Axis" "Fluid Crux" "Liquid Terminus" 
+				"Fluid Server" "Liquid Chassis"
+			}
+		}
+		
+		pc_tundra = {
+			names = { 
+				"Polar Nexus" "Polar Hub" "Polar Bridge" "Polar Matrix" "Polar Network" "Polar Core" "Polar Kernel" "Polar Source" 
+				"Polar Combine" "Polar Locus" "Polar Cynosure" "Polar Omphalos" "Polar Nucleus" "Polar Axis" "Polar Crux" "Polar Terminus" 
+				"Polar Server" "Polar Chassis"
+			}
+		}
+		
+		pc_arctic = {
+			names = { 
+				"Cryo Nexus" "Cryo Hub" "Frozen Bridge" "Cryo Matrix" "Frozen Network" "Cryo Core" "Frozen Kernel" "Cryo Source" 
+				"Cryo Combine" "Frozen Locus" "Frozen Cynosure" "Frozen Omphalos" "Cryo Nucleus" "Frozen Axis" "Cryo Crux" "Cryo Terminus" 
+				"Cryo Server" "Cryo Chassis"
+			}
+		}
+
+		pc_savannah = {
+			names = { 
+				"Veldt Nexus" "Veldt Hub" "Veldt Bridge" "Veldt Matrix" "Veldt Network" "Veldt Core" "Veldt Kernel" "Veldt Source" 
+				"Veldt Combine" "Veldt Locus" "Veldt Cynosure" "Veldt Omphalos" "Veldt Nucleus" "Veldt Axis" "Veldt Crux" "Veldt Terminus" 
+				"Veldt Server" "Veldt Chassis"
+			}
+		}
+
+		pc_alpine = {
+			names = { 
+				"Tor Nexus" "Tor Hub" "Tor Bridge" "Tor Matrix" "Tor Network" "Tor Core" "Tor Kernel" "Tor Source" "Tor Combine" 
+				"Tor Locus" "Tor Cynosure" "Tor Omphalos" "Tor Nucleus" "Tor Axis" "Tor Crux" "Tor Terminus" "Tor Server" "Tor Chassis"
+			}
+		}
+
+		pc_nuked = {
+			names = { 
+				"Grim Nexus" "Grim Hub" "Grim Bridge" "Grim Matrix" "Grim Network" "Grim Core" "Grim Kernel" "Grim Source" "Grim Combine" 
+				"Grim Locus" "Grim Cynosure" "Grim Omphalos" "Grim Nucleus" "Grim Axis" "Grim Crux" "Grim Terminus" "Grim Server" 
+				"Grim Chassis"
+			}
+		}
+		
+	}
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = { 
+				"Unit A1" "Unit A2" "Unit A3" "Unit A4" "Unit A5" "Unit A6" "Unit A7" "Unit A8" "Unit A9" 
+				"Unit B1" "Unit B2" "Unit B3" "Unit B4" "Unit B5" "Unit B6" "Unit B7" "Unit B8" "Unit B9"
+				"Unit C1" "Unit C2" "Unit C3" "Unit C4" "Unit C5" "Unit C6" "Unit C7" "Unit C8" "Unit C9"
+				"Unit D1" "Unit D2" "Unit D3" "Unit D4" "Unit D5" "Unit D6" "Unit D7" "Unit D8" "Unit D9"
+				"Unit E1" "Unit E2" "Unit E3" "Unit E4" "Unit E5" "Unit E6" "Unit E7" "Unit E8" "Unit E9"
+				"Unit F1" "Unit F2" "Unit F3" "Unit F4" "Unit F5" "Unit F6" "Unit F7" "Unit F8" "Unit F9"
+				"Unit G1" "Unit G2" "Unit G3" "Unit G4" "Unit G5" "Unit G6" "Unit G7" "Unit G8" "Unit G9"
+				"Unit H1" "Unit H2" "Unit H3" "Unit H4" "Unit H5" "Unit H6" "Unit H7" "Unit H8" "Unit H9"
+				"Unit I1" "Unit I2" "Unit I3" "Unit I4" "Unit I5" "Unit I6" "Unit I7" "Unit I8" "Unit I9"
+				"Unit J1" "Unit J2" "Unit J3" "Unit J4" "Unit J5" "Unit J6" "Unit J7" "Unit J8" "Unit J9"
+				"Unit K1" "Unit K2" "Unit K3" "Unit K4" "Unit K5" "Unit K6" "Unit K7" "Unit K8" "Unit K9"
+				"Unit L1" "Unit L2" "Unit L3" "Unit L4" "Unit L5" "Unit L6" "Unit L7" "Unit L8" "Unit L9"
+				"Unit M1" "Unit M2" "Unit M3" "Unit M4" "Unit M5" "Unit M6" "Unit M7" "Unit M8" "Unit M9"
+				"Unit N1" "Unit N2" "Unit N3" "Unit N4" "Unit N5" "Unit N6" "Unit N7" "Unit N8" "Unit N9"
+				"Unit O1" "Unit O2" "Unit O3" "Unit O4" "Unit O5" "Unit O6" "Unit O7" "Unit O8" "Unit O9"
+				"Unit P1" "Unit P2" "Unit P3" "Unit P4" "Unit P5" "Unit P6" "Unit P7" "Unit P8" "Unit P9"
+				"Unit Q1" "Unit Q2" "Unit Q3" "Unit Q4" "Unit Q5" "Unit Q6" "Unit Q7" "Unit Q8" "Unit Q9"
+				"Unit R1" "Unit R2" "Unit R3" "Unit R4" "Unit R5" "Unit R6" "Unit R7" "Unit R8" "Unit R9"
+				"Unit S1" "Unit S2" "Unit S3" "Unit S4" "Unit S5" "Unit S6" "Unit S7" "Unit S8" "Unit S9"
+				"Unit T1" "Unit T2" "Unit T3" "Unit T4" "Unit T5" "Unit T6" "Unit T7" "Unit T8" "Unit T9"
+				"Unit U1" "Unit U2" "Unit U3" "Unit U4" "Unit U5" "Unit U6" "Unit U7" "Unit U8" "Unit U9"
+				"Unit V1" "Unit V2" "Unit V3" "Unit V4" "Unit V5" "Unit V6" "Unit V7" "Unit V8" "Unit V9"
+				"Unit W1" "Unit W2" "Unit W3" "Unit W4" "Unit W5" "Unit W6" "Unit W7" "Unit W8" "Unit W9"
+				"Unit X1" "Unit X2" "Unit X3" "Unit X4" "Unit X5" "Unit X6" "Unit X7" "Unit X8" "Unit X9"
+				"Unit Y1" "Unit Y2" "Unit Y3" "Unit Y4" "Unit Y5" "Unit Y6" "Unit Y7" "Unit Y8" "Unit Y9"
+				"Unit Z1" "Unit Z2" "Unit Z3" "Unit Z4" "Unit Z5" "Unit Z6" "Unit Z7" "Unit Z8" "Unit Z9"
+			}
+			
+			# Always combined with a second name
+			first_names = {
+			}
+			
+			# Always combined with a first name
+			second_names = {
+			}
+			
+			regnal_first_names = {
+			}
+			
+			regnal_second_names = {
+			}
+		}
+	}
+
+	ruler_names = {
+		default = {
+			full_names = {
+				001 002 003 004 005 006 007 008 009 010 011 012 013 014 015 016 017 018 019 020 021 022 023 
+				024 025 026 027 028 029 030 031 032 033 034 035 036 037 038 039 040 041 042 043 044 045 046
+				047 048 049 050 051 052 053 054 055 056 057 058 059 060 061 062 063 064 065 066 067 068 069
+				070 071 072 073 074 075 076 077 078 079 080 081 082 083 084 085 086 087 088 089 090 091 092
+				093 094 095 096 097 098 099
+			}
+		}
+	}
+}
